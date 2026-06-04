@@ -164,7 +164,20 @@ flowchart LR
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+I will give Claude my Documents section and Chunking Strategy from this planning.md 
+and ask it to implement a script that scrapes or loads the Reddit threads as .txt 
+files, cleans them, and splits them using RecursiveCharacterTextSplitter with chunk 
+size 400 and overlap 50. I will verify the output by printing 5 random chunks and 
+checking they are readable, complete thoughts.
 
 **Milestone 4 — Embedding and retrieval:**
+I will give Claude my Architecture diagram and Retrieval Approach section and ask it 
+to implement embedding with all-MiniLM-L6-v2 and storage in ChromaDB. I will verify 
+by running 3 of my test questions and checking that the returned chunks are visibly 
+relevant to each question.
 
 **Milestone 5 — Generation and interface:**
+I will give Claude my grounding requirement (answers from retrieved context only, with 
+source attribution) and ask it to implement the Groq llama-3.3-70b generation step and 
+a Gradio web interface. I will verify by checking that every response cites a source 
+and that out-of-scope questions return "I don't have enough information on that."

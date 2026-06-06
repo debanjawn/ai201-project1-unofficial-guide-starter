@@ -1,0 +1,576 @@
+THREAD: A guide to Financial Aid Refunds: Pell, TAP, and Federal Loans
+URL: https://www.reddit.com/r/CUNY/comments/x94w0o/a_guide_to_financial_aid_refunds_pell_tap_and/
+
+POST:
+Hello everyone,
+
+I have noticed an abnormal amount of threads opening up asking questions like "When is everyone getting a refund?!" Unfortunately, everyone's situation can be dramatically different from one another and not everyone's financial aid package is the same, some individuals do not receive any aid at all and have to pay fully out of pocket.
+
+This is a guide that will explain to you the following:
+
+1. How to check if you receive financial aid
+2. How to check when the financial aid will disburse
+3. How to check if the financial aid will be refunded back to you
+4. Deposit Timelines
+
+1. Am I getting financial aid?
+
+To receive financial aid, in the form of grants, (Pell grants and TAP) you must have had an EFC (Expected Family Contribution) of less than $5486. To check your EFC, login to CUNYFirst --> Student Center --> Financial Aid --> Financial Aid Summary --> Expected Family Contribution.
+
+If your income in 2020 or your family's income in 2020 has drastically reduced 2022, you can file for an income adjustment appeal. The process of this appeal varies from school to school, most have you fill out a form, some require using StudentForms, but reach out to your Financial Aid office to file this appeal. The type of documents needed also varies from school to school.
+
+2. How to check for Financial Aid disbursement
+
+Many individuals on Reddit think disbursement means a refund. That is incorrect, disbursement means that the school has received the funds from the US Government (or wherever) and it has entered your "school account". Disbursement DOES NOT mean you have been refunded the money.
+
+If you have confirmed you are receiving financial aid, you will also be given a disbursement date. To check for the disbursement date, log on to CUNYFIRST --> Student Center --> Financial Aid --> Awards (left menu) --> Disbursement Date. Let's use the most recent disbursement date as an example.
+
+ALL DISBURSEMENTS AND REFUNDS OCCUR ON A MONDAY-TUESDAY SCHEDULE UNLESS MONDAY WAS A HOLIDAY, IN WHICH CASE TUESDAY BECOMES MONDAY
+
+Pell Grant 8/15/22
+
+8/15 means that the Pell grant will arrive in your school account on August 15th. To check if the amount has been disbursed, around 1-2 PM on August 15th, (you can replace this date with whatever your actual date is) check to see if the amount was "Posted" into your account.
+
+To check if the amount has been posted, log on to CUNYFirst --> Student Center --> Financial Account --> Account Activity.
+
+On this page, you should see your financial aid amount in the "Payment" column. This occurs on a Monday.
+
+3. Will I get a refund?!
+
+Now that you have confirmed that your financial aid has been disbursed into your school account. Navigate over to your account balance. To do this login to CUNYFirst --> Student Center --> Financial Account --> Account Balance (left menu).
+
+If you see a balance there, take note of this amount. Take this amount and subtract it from the amount that has been disbursed. If there is a remainder amount, you will be getting a refund.
+
+If you have no balance, you will get a full refund of the amount that was disbursed.
+
+Once you have confirmed you will be receiving a refund, ON TUESDAY AROUND 3-5 PM log on to CUNYFirst --> Student Center --> Financial Account --> Account Activity (left menu). You should see the amount you calculated in the "Refund" column.
+
+Once you see this amount in the refund column, it means they have sent out your direct deposit or mailed your check. IF YOU DO NOT SEE AN AMOUNT IN THE REFUND COLUMN THAT MEANS YOU WILL NOT BE GETTING ANYTHING.
+
+UNIQUE SITUATIONS
+
+Sometimes, some students get their aids approved well after the disbursement date. For instance, you filed for an income adjustment in the summer and got approved in Spring, (it can take that long) They now owe you for 2 semesters' worth of Pell Grants. Those Pell grants will be given the same OLD disbursement dates, but in this UNIQUE SITUATION, the dates do not mean anything. You just have to wait till the school receives the money, and in 1 or 2 weeks, it will follow the same Monday-Tuesday schedule.
+
+4. DEPOSIT TIMELINES
+
+If you opted for a paper check, it will be mailed to you using SNAIL MAIL and it could take up to 3 weeks for you to receive your paper check.
+
+If you opted for direct deposit, the deposit timelines vary from bank to bank.
+
+MVNO Banks such as "Chime" or "Cashapp" will release the funds usually on Wednesday, within 24 hours of the school sending it. I don't like waiting all week for my money so for school deposits I specifically use MVNO banks.
+
+Regular banks like Chase, BOA, etc, all follow the "check date" on the deposit which is a "Friday". But sometimes can be delayed up to Monday.
+
+ERPA Grants sent by Biden, DO NOT FOLLOW these timelines and have their own timelines, usually 1 or 2 weeks after the refund is issued.
+
+I hope this guide helps answer many questions a lot of you have about refunds. I wish you all the best of luck this semester.
+
+---
+COMMENT by Nervous-Passion-1897:
+FAFSA stands for free application for federal student aid, without filling fafsa you cannot get access to the grants and loans I'm writing about in this post.
+
+---
+COMMENT by stick_it_in_your_mom:
+I just resolved a lot of tap problems on HESC's side and well I'm just waiting but something that does irk me is a little message, that's not really a message it's just highlighted blue under my HESC page that says "to receive your NYS financial aid payments, you must complete the New York State student aid payment application" I remember doing so a while ago but seeing that there kinda makes me doubt myself. I just want to know if that's there for everyone even though you already did the application since that's like the first thing you do when you fill out tap forms.
+
+Edit: now I'm just confused cuz I think that thing is the tap form itself and I already filled that out obviously since it's the tap form. I might just delete my comment lol
+
+---
+COMMENT by Nervous-Passion-1897:
+It should've already moved to refund, if it hasn't already it means your aid was applied to your tuition cost.
+
+To review your itemized bill, go to CUNYfirst --> student center --> Financial Account--> Ebill and select your term. Once you open the bill you will see the cost of your tuition plus what aid has been applied to it.
+
+---
+COMMENT by JL6789:
+I've also been telling people that if when they look at the ebill and there's a figure in parenthesis in the balance due field then that is what will be issued out to the student. If the figure has no parenthesis then that is the remainder expense the student needs to figure out how to pay off. If there's no figure in the balance due field then everything is squared away .
+
+---
+COMMENT by Alarming-Pianist-693:
+how accurate is this? my e bill shows an amount in parenthesis for balance due we will see today if i get a refund just checking the accuracy of this claim.
+
+---
+COMMENT by kapoorprincess:
+did you end up getting the refund with the amount that was in balance due?
+
+---
+COMMENT by Nervous-Passion-1897:
+I wrote a separate guide for TAP problems, go here:
+
+https://www.reddit.com/r/CUNY/comments/x5l5bu/if_your_tap_disappeared_please_read_this_post/?utm_medium=android_app&utm_source=share
+
+---
+COMMENT by Nervous-Passion-1897:
+If the amount is in the refund column
+
+The timeline is as follows:
+
+Paper check: 2-3 weeks to your mailing address on cunyfirst
+
+Direct deposit: for MVNO banks such as chime, deposits will hit on Wednesday (got mine last night)
+
+Regular banks like chase, bank of america, etc will honor the check date of "Friday". But because there's thousands of refunds issued, your refund could be pushed back till Monday.
+
+Get an MVNO bank and skip the wait.
+
+---
+COMMENT by HamsterAphrodite:
+Mine is stuck on refund since the 20th of this month so that means I'm getting it on Friday or Monday ? It's already Thursday right now and it's not posted to my account. I have direct deposit
+
+---
+COMMENT by Nervous-Passion-1897:
+What bank are you using
+
+---
+COMMENT by HamsterAphrodite:
+Capitol one
+
+---
+COMMENT by Nervous-Passion-1897:
+That's a regular bank so you'll see it tomorrow or Monday.
+
+---
+COMMENT by Melissa_R2310:
+Helpful guide! Thank you for writing this.
+
+---
+COMMENT by fanfanbanana:
+since a lot of people are confused on why they aren't getting a book refund is it reasonable to say that a lot of peoples EFC increased and a lot of people are gettin less aid? i've always had o efc but this year it's like 1600 and now i'm not getting a book refund :( but also i'm missing half my summer aid so i'm sure that really screwed me over
+
+---
+COMMENT by Nervous-Passion-1897:
+A book refund will only happen if you have additional funds coming in on September 19th that will be refunded. For instance. They give you a book refund for 700$. What they do after giving you the 700$ is that they charge your account 700$. That way when your anticipated aid arrives on the 19th, it automatically deducts the book refund. Eg:
+
+You get a book refund for 700$. They charge your account 700$. You have incoming aid for 1700$. When the aid arrives, the school keeps the 700 they already advanced to you and you get the remaining 1k.
+
+I used the values above to keep the math easy. Your values could be different.
+
+---
+COMMENT by fanfanbanana:
+yea i know but i was recently charged 1200 for summer (it was a late charge like august 10tj) and i haven't received aid for that (even though I should, i've already talk to finaid about this they will fix but who knows when) so now my outstanding balance is more than financial aid. I don't get a book refund cause they messed up :(
+
+---
+COMMENT by ohbarnacle:
+Mine had the disbursement date of 09/19 but it says $0.00 has been disbursed. It's about 2k-3k extra off my tuition..what should I do?
+
+---
+COMMENT by Nervous-Passion-1897:
+When were these awards/loans given to you? Meaning when did you learn you were getting them?
+
+---
+COMMENT by ohbarnacle:
+I always knew. I received them every single year.
+This was a mishap with my TAP where a class wasn't covered for an incorrect reason. It is fixed and my TAP showed but it says $0.00 has been disbursed.
+
+---
+COMMENT by Nervous-Passion-1897:
+Got it, so you fall under the unique category of my guide. Your tap was just awarded to you, in order to meet the disbursement date on the 19th you needed to have tap loaded atleast 3-4 weeks prior.
+
+Since you were awarded recently, it will likely process this coming Monday, or next Monday. Your award will follow its own time line, not the one given to you on cunyfirst. Hope this helps.
+
+---
+COMMENT by NewYorkExile:
+I have the same exact problem. Federal PELL Grant Fall, Federal SEOG Fall, Subsidized Direct Loan all have disbursement dates that are in the past, but they all still say 0.00 Disbursed
+
+---
+COMMENT by Slight_Row6170:
+what does it mean if your pell has been disbursed but your tap says it is scheduled for 09/19 but the amount disbursed is $0?
+
+---
+COMMENT by Nervous-Passion-1897:
+It could be that you were awarded recently so the money hasn't arrived into your school account yet. Check today or next Monday to see if it was disbursed and posted in your account.
+
+---
+COMMENT by Hefty_Smell2444:
+Do you get any refunds from tap? I usually do fasfa and tap but this year I've completely forgotten to do my tap application (it is currently 9/29/22 )and I just sent in the application. I was supposed to get a 2500$ refund but only received 180 from fasfa not sure why as I always get around 2-3k but will I be able to get some $ from tap?
+
+---
+COMMENT by Nervous-Passion-1897:
+Yes, you can get a refund from TAP. Since you just put in the application it will take about 3 weeks to 2 months to process and show up on your cunyfirst. Once that happens follow the guidelines listed in the "unique situation".
+
+---
+COMMENT by Significant-Load-548:
+Do you get TAP payments to pocket if you paid off your tuition already ? I'm a veteran so the GI bill covered my tuition and i was able to receive all my Pell grants,I was approved for TAP and called my school and they said I shouldn't be receiving that it's a refund for Pell Grants ?? I'm so confused and would love some clarity !
+
+---
+COMMENT by Nervous-Passion-1897:
+If you paid off your tuition, any aid will be refunded back to you, loans, grants, etc. Including TAP.
+
+Short answer: Yes.
+
+---
+COMMENT by Significant-Load-548:
+My school is telling me that tap is only for tuition and that it can't be refunded to me.Its a credit sitting on my account apparently and that they would have to reduce my chapter 33 for the tap to hit ?? Im legitimately so confused cause they're saying I won't get it cause it's only for tuition but mine has been covered and at the same time I was encouraged to apply for it and approved for it.
+
+---
+COMMENT by Significant-Load-548:
+Also the TAP has already been posted on my cuny financial account as disbursement date was Monday.
+
+---
+COMMENT by Hive_YutaTs:
+Did you end up getting it?
+
+---
+COMMENT by Intelligent-Dot-7878:
+Thanks for this
+
+---
+COMMENT by [deleted]:
+[deleted]
+
+---
+COMMENT by Nervous-Passion-1897:
+Its too soon in the day, Wednesday deposits show up in the evening if they do arrive. This is assuming you have a bank like Chime or another online bank that releases deposits early. If you don't get it today (and you normally do) you'll get it tomorrow.
+
+If you have a regular bank than it will Friday, sometimes Monday.
+
+---
+COMMENT by Which-Crow9855:
+I know my direct deposit is up to date since I already got the book advance replacement but I should get more. I just which there was a way it can tell you when you'll get the refund
+
+---
+COMMENT by [deleted]:
+[removed]
+
+---
+COMMENT by Which-Crow9855:
+Yes, mines showed up.
+
+---
+COMMENT by Nervous-Passion-1897:
+You need to check if you had an account balance. If you did, whatever that was disbursed went towards that balance. That's usually why it doesn't change to refund. It changes to refund by tuesday, if not it's been applied to a balance.
+
+---
+COMMENT by justjeffo7:
+Does this apply to FAFSA?
+
+---
+COMMENT by [deleted]:
+[deleted]
+
+---
+COMMENT by justjeffo7:
+I could've sworn we get normal fin aid in addition to Pell Grant
+
+---
+COMMENT by [deleted]:
+Fafsa gives pell grant and loans.
+
+There is also aid from NY state which is TAP, you have to apply for it separately from fafsa.
+
+---
+COMMENT by AiiMX:
+Mine standing at payment but didn't move to refund yet
+
+---
+COMMENT by Nervous-Passion-1897:
+Unless for whatever reason your aid was disbursed today which is unlikely, all disbursements occur on a Monday.
+
+---
+COMMENT by AiiMX:
+Its was disbused like 2 weeks ago
+
+---
+COMMENT by Nervous-Passion-1897:
+In that case it was applied to your tuition, you will not be getting a refund. Sorry for the bad news 😔
+
+---
+COMMENT by Nervous-Passion-1897:
+Refunds are processed 24 hours after the payment is posted. If there is no refund posted after 24 hours then it's applied to a bill.
+
+---
+COMMENT by AiiMX:
+Oh alright but my tuition is 3.5k but fafsa paid me 4.7k that's confusing
+
+---
+COMMENT by AiiMX:
+Csn i dm you
+
+---
+COMMENT by SideSuitable1830:
+Does anyone have information on paper checks
+
+---
+COMMENT by Nervous-Passion-1897:
+They take 2-3 weeks after the refund has been issued to arrive to your registered address on cunyfirst.
+
+---
+COMMENT by Smaiers_:
+what if you didn't have an address there when they sent it and only recently added one there?
+
+---
+COMMENT by Nervous-Passion-1897:
+They won't send a check without a registered address. If you had an old address on file it was sent there. You need to contact your financial aid department and ask them if the check was sent and if possible to cancel those checks and send them to you with the updated address.
+
+---
+COMMENT by Smaiers_:
+thank you and no there was no prior mailing address on the website only my home address, so they probably didn't send anything yet.
+
+---
+COMMENT by Stole_Myself_Wit7:
+Does the refund have to be paid back? Or reported on taxes?
+
+---
+COMMENT by Nervous-Passion-1897:
+No, only if you drop classes. It does get reported on taxes but if it's a loan it gets counted as an expense and if it's a grant it's not counted as an expense.
+
+---
+COMMENT by kokolokodoko:
+Some of my aid hasn't been disbursed even though the disbursement date was September 19th. I know I can't get my refund unless it gets disbursed and pays my tuition first. My tuition is much less than my aid so I know I'm getting a refund. I'm just really confused on why $0 have been disbursed tho. But my aid scheduled for August 15th got disbursed, just not the September 19th. Anybody been in the same situation? I really need the refund quickly or else I might not be able to continue going to college. I contacted financial aid last Tuesday and they haven't gotten back to me yet.
+
+---
+COMMENT by Nervous-Passion-1897:
+When was your disbursement awarded to you? When did you find out you were getting a reward?
+
+---
+COMMENT by kokolokodoko:
+I have known I would get that aid for a few months now. I got the disbursement from August 15th which partially paid my tuition but the amount that was scheduled for September 19th on cunyfirst has $0 disbursed. I didnt get any emails about a refund yet, but usually i get those emails after my payment has been disbursed. im just confused on why its not disbursing. and i think since monday and tuesday is a holiday, it would prob end up disbursing the week after (if it is getting disbursed) which is so far away ugh
+
+---
+COMMENT by MonitorFair:
+About what time are the refund checks supposed to your bank accounts on friday or monday?
+
+---
+COMMENT by Nervous-Passion-1897:
+It should be in your account when you wake up on Friday, If not it will be there Monday.
+
+Get an online bank account like Chime and get your money on a Wednesday. Not sure why people like to wait an extra 4 days for their money.
+
+---
+COMMENT by MonitorFair:
+thankyou. Another question I set it up my direct deposit but is there way to know for sure that you're getting direct deposit?
+
+---
+COMMENT by Nervous-Passion-1897:
+If you setup direct deposit, then you will get it in your bank account. Paper checks are only sent to students without direct deposit information. To figure out if you are indeed getting a refund please follow the guide up above.
+
+---
+COMMENT by irzfxry:
+does anyone know when tap money will be put in my direct deposit?
+
+---
+COMMENT by CoffeeAsher:
+So if it Disbursed on Tuesday due to Monday being a holiday and it enter the refund Column Wednesday would it deposit thrusday (I use CashApp as Directed deposit)
+
+---
+COMMENT by Nervous-Passion-1897:
+Yes that's correct, hopefully Friday the latest.
+
+---
+COMMENT by Silly_Life3508:
+What about Excelsior, I received it last year and this year it says I'm ineligible despite meeting credits requirements and financial situation being the same
+
+---
+COMMENT by [deleted]:
+[removed]
+
+---
+COMMENT by Nervous-Passion-1897:
+I use Chime, let me know I'll send you a referral.
+
+---
+COMMENT by St_Tucker:
+Is this specific to all CUNYs? On CCNYs financial aid website, it says that disbursements are handed out on Fridays?
+
+---
+COMMENT by Nervous-Passion-1897:
+Sorry for late reply I did not see this question
+
+The disbursement (money entering your school account) is usually given a date. To learn how to view that date:
+
+If you have confirmed you are receiving financial aid, you will also be given a disbursement date. To check for the disbursement date, log on to CUNYFIRST --> Student Center --> Financial Aid --> Awards (left menu) --> Disbursement Date.
+
+If your schools date falls on a Friday (which it shouldn't because then the pay cycle would just be weird) then that would mean, Friday is the disbursement, Monday is when the money gets posted to your account, and if anything is left over, Monday is also when the refund would be issued. If that is the case, which is unlikely, you would receive your money between Thursday and next week Monday. But again, that just seems unlikely, I would confirm the disbursement dates using the guideline above. Remember, disbursement does not mean refund.
+
+---
+COMMENT by [deleted]:
+How do you set up direct deposit on Cashapp?
+
+---
+COMMENT by [deleted]:
+[deleted]
+
+---
+COMMENT by Nervous-Passion-1897:
+Press home on cashapp and hit direct deposit then hit continue it'll give you the routing and account number to your cashapp account. Use that and enter it in your cunyfirst direct deposit section.
+
+---
+COMMENT by Substantial_Gold_208:
+I received an email today about revised financial aid for last semester (fall 2022). But the disbursement date says August of 2022 and it hasn't been disbursed so that's confusing me.
+
+---
+COMMENT by Nervous-Passion-1897:
+Refer to the unique situation category of this guide.
+
+---
+COMMENT by Dangerous_Ad_7610:
+"ALL DISBURSEMENTS AND REFUNDS OCCUR ON A MONDAY-TUESDAY SCHEDULE UNLESS MONDAY WAS A HOLIDAY, IN WHICH CASE TUESDAY BECOMES MONDAY"
+Does that mean Wednesday becomes Tuesday? This past Monday was a Holiday and my disbursement occurred yesterday does that mean the refund will be posted today or will it occur next week?
+
+---
+COMMENT by Knowitmom4life:
+What's the tips on getting more etc when filling out the fasfa?
+
+---
+COMMENT by SupermarketNeat8364:
+Hi! With refunds being on a Monday - Tuesday schedule does that mean my bank won't receive it until Monday-Tuesday? It says my refund was dispersed Tuesday 1/30 so should I assume my bank won't get it until Monday 2/5? Thank you!
+
+---
+COMMENT by Nervous-Passion-1897:
+If you have a regular bank like Chase, BoA, capital one etc, you should get it by Friday. If you have Chime, or a bank that does early deposits, you'll get it Wednesday evening or Thursday morning.
+
+---
+COMMENT by SupermarketNeat8364:
+Thank you! You're a super star for doing this thread btw !
+
+---
+COMMENT by quickansweraccount:
+Hello! So my Federal Pell disbursed yesterday (2/26) but my TAP Award is to disburse on Thursday (2/29).
+
+Typically, I get the refund through Pell since it comes after TAP, now it's the other way around.
+
+Will I be getting the refund a few days after the TAP disburses?
+
+---
+COMMENT by Nervous-Passion-1897:
+Assuming you have a left over amount after your tuition is paid, your TAP will be disbursed Thursday, posted Monday, and the refund will be sent Tuesday and you will get it Wednesday-Friday
+
+---
+COMMENT by quickansweraccount:
+Great! Thanks for your reply! :)
+
+---
+COMMENT by LabLazy3340:
+Silly question, but does this also apply to summer refunds?
+
+My refund was done on yesterday according to CUNYfirst.
+
+---
+COMMENT by Nervous-Passion-1897:
+Yes it does
+
+---
+COMMENT by LabLazy3340:
+Thanks! So, in theory, if my account is saying "07/30/2024 Refund of Financial Aid 2024 Summer Term" and then lists a dollar amount, I should be getting my refund either this evening or tomorrow?
+
+---
+COMMENT by Nervous-Passion-1897:
+If you are using a bank account that releases funds earlier than what's known as a "check date", yes. Chime, cashapp, TD are some examples of banks that release it early. Wednesday evening-thursday morning.
+
+But most banks will honor the check date, chase, capital one, bank of america, etc. Check date is always a Friday. So if you have a regular bank, tomorrow.
+
+---
+COMMENT by LabLazy3340:
+Ok, so we have CapitalOne which is a "normal bank" but we have early paycheck set up and always get our paychecks Thursday evening (even though the company says Friday), so I wonder when it'll come through...
+
+---
+COMMENT by VitorAlanShot:
+Quick question, I should be receiving my refunds this week Friday with Bofa, would it be too late for me to change my direct deposit to a MVNO bank today, since its Wednesday, or I would just be missed the refund and push it forward to next wee Wednesday?
+
+---
+COMMENT by Nervous-Passion-1897:
+It is too late, refunds are issued on Tuesday, your money is already on its way to bank of america.
+
+---
+COMMENT by VitorAlanShot:
+Thanks!
+
+---
+COMMENT by VitorAlanShot:
+Hello it's me again, just wanted to confirm: if the disbursement date the on 15th this month(Wednesday). Which would be faster for getting my refund—Bank of America or Chime? I know BofA usually processes payments on Fridays, even if refunds show up by Tuesday when disbursements are on Monday. Does Chime post refunds faster, like within 24 hours, instead of waiting for specific days?
+
+---
+COMMENT by Nervous-Passion-1897:
+Yes Chime posts usually within 24 hours. However being so close to the disbursement date, I would change the deposit info before this week ends. Don't change it on the week off.
+
+---
+COMMENT by VitorAlanShot:
+Thank you! I'm using Chime right now was wondering if I should change it to BofA, but I guess I'll stick to Chime
+
+---
+COMMENT by VitorAlanShot:
+Hi I'm back with another question, I'm currently having a strange situation where my fund disbursed Tuesday (because Monday was MLK Day), posted Tuesday, and refunded Wednesday. In past semesters I usually receive it Thursday afternoon if Monday was a holiday, but as of today Friday I still haven't received anything. This is starting to concern me, may I have your thoughts on this? Should I contact anyone? Thank you so much!
+
+---
+COMMENT by Jaded_Wonder_5695:
+I found out this past thursday (8/22) that I received a refund and it says it was posted on tuesday (8/20). Prior to that thursday, I didn't have a direct deposit set up on CUNYfirst until I added one that day (TD Bank). Should I expect a check in the mail or will it appear on my bank account?
+
+---
+COMMENT by Nervous-Passion-1897:
+If it hasn't showed up in the account today, it may on rare cases show up Monday. If it doesn't show up Monday, they cut you a check.
+
+---
+COMMENT by Jaded_Wonder_5695:
+Alright. If it happens to have been sent out by check, 2-3 weeks is the average amount of time it'll take to arrive right?
+
+---
+COMMENT by Nervous-Passion-1897:
+Yes that's correct
+
+---
+COMMENT by Unable_Sweet_9451:
+:)
+
+---
+COMMENT by Dangerous_Ad_7610:
+I got a previous balance will it still move to refund since the aid is more than the previous balance
+
+---
+COMMENT by Livid-Initiative8423:
+Thanks
+
+---
+COMMENT by Mundane-Hunter8603:
+Question if the refund was sent out direct deposit on a Monday does that mean I will get my check on cashapp Tuesday or will I still have to wait for wes ?
+
+---
+COMMENT by Nervous-Passion-1897:
+Usually refunds are sent out on Tuesday and arrive Wednesday for cashapp/chime. So you will likely get it today.
+
+---
+COMMENT by Mundane-Hunter8603:
+I'm waiting on the ASAP book assistance check of 250$
+
+---
+COMMENT by UnfairLoss3883:
+I didn't get my federal pell in August since it when to my tuition. So will they take my federal pell again but I did my tap, will they take the tap or the federal Pell because im getting my federal pell this week?
+
+---
+COMMENT by maliakab:
+This is super helpful. If I have a bank that offers early pay will that work? Or will it still follow the Friday schedule as it's not a recurring direct deposit?
+
+---
+COMMENT by Nervous-Passion-1897:
+Early pay banks usually clear the deposit by Wednesday evening around 330-630pm. Sometimes, it can show up Thursday morning.
+
+---
+COMMENT by Local_Double2127:
+What if I see the aid in the Payment column but i havent gotten it and its been weeks. ive only gotten the money in the "refund" column
+
+---
+COMMENT by Nervous-Passion-1897:
+The aid in the payment column has already been applied to your tuition, you will not be getting a refund from the payment column.
+
+---
+COMMENT by Economy_Motor4075:
+Hi just a question I just got accepted for my TAP money on october and i'm supposed to get $3,431.90 for refund. How long would that take to get into my chase account?
+
+---
+COMMENT by Nervous-Passion-1897:
+Go to financial account and then account activity, is there an amount in the refund column?
+
+---
+COMMENT by Asleep-Grab-9191:
+Yeah, there's an amount posted in the refund column on 10/15
+
+---
+COMMENT by Nervous-Passion-1897:
+Then it was either mailed as a check or youll get it monday. Did you get a cuny direct deposit email?
+
+---
+COMMENT by Asleep-Grab-9191:
+I know im so late to this but I'm desperate. I have citibank. They dont offer early pay. The funds were disbursed on Tuesday 10/14 and after the tuition was taken, the direct deposit was posted on Wednesday 10/15. Would it arrive on Monday if it didnt come Friday 10/17?
+
+---
+COMMENT by Reasonable_Hawk2148:
+Thank you for clarifying all of this!

@@ -1,0 +1,83 @@
+THREAD: Financial Aid Disbursement Megathread & FAQ
+URL: https://www.reddit.com/r/CUNY/comments/117wgdi/financial_aid_disbursement_megathread_faq/
+
+POST:
+To avoid multiple relevant posts about financial aid disbursements, amounts, loan, and anything related lets keep them here. As more questions get posted, I'll add to the FAQ.
+
+Keep in mind, no one on reddit has access to view your student account, financial aid, academic records or anything else. Do not trust or provide anyone access to you credentials or information.
+
+Q: CUNYFirst says I my financial aid was disbursed, why haven't I gotten it yet?
+
+A: Once CUNY disburses your refund (if eligible), it can take anywhere to 5-7 business days for CUNY to send the money to the banks and another 5-7 business days for your bank to process it. In most cases it's a lot faster (4-7 business days in total) and most banks process relatively within this time frame but delays can take place due to business days and other holidays.
+
+Q: What are business days?
+
+A: Monday to Fridays excluding Federal Holidays.
+
+Q: Why did my friend get a $5,000 refund and I got only $1,500.
+
+A: FAFSA determines how much financial support your need based on the W2 income from previous years. If you are a dependent student (i.e your parents claim you on their taxes) then your aid amount is dependent on how much money your family makes and how many people are in the household. If your independent, it's usually just your income.
+
+Q: How is my aid amount determined?
+
+A: FAFSA determines how much your family is expected to contribute to your tuition and fees.
+The formula is something like: Federal AID + State AID - (Tuition/Fees/Past Dues) - Expected Family Contribution. If this amount is positive, that's your refund, if it's negative, that's how much you owe.
+https://www.cuny.edu/financial-aid/student-eligibility/expected-family-contribution/
+
+Q: I used to get financial aid before but I'm not anymore, why is that?
+
+A: There are a multitude of reasons, for a better answer, contact the financial aid office for your school. No one on reddit has access to view ANY records or do anything.
+
+Some common reasons are you've exhausted your Pell/TAP Grants.
+The Federal Pell Grant provides 12 credits in total.
+NYS TAP provides 8 credits in total, unless you're in the SEEK program where you get 10 credits.
+Each full time semester uses up 1 credit per aid so if you get both Pell and TAP in a semester, you've used 1 credit for each. These credits do not get refunded/increased.
+
+Another common reason is failing to meet academic progression.
+https://www.cuny.edu/financial-aid/student-eligibility/satisfactory-academic-progress/
+
+Q: I want to drop one/all my classes for XYX reasons, will I owe any money?
+
+A: This varies per student.
+https://www.cuny.edu/financial-aid/student-eligibility/return-of-federal-aid-policy/
+
+Typically if you maintain 12 or more credits worth of classes that contribute to your degree, the financials don't change. Tuition is fixed for 12-18 credits. More than 18 credits require approvals. This varies if you are retaking failed or previous withdrawn classes.
+Contact Financial Aid for a better answer.
+
+Visit https://www.cuny.edu/financial-aid/ for more information.
+
+---
+COMMENT by Traditional_Lock3595:
+Do u get tuition waivers for the summer? Cuz I got 3422$ for the summer and bill is around 3.8k. Will the school pay off the rest?
+
+---
+COMMENT by Nervous-Passion-1897:
+I also made a detailed guide regarding financial aid which can be found here:
+
+https://www.reddit.com/r/CUNY/comments/x94w0o/a_guide_to_financial_aid_refunds_pell_tap_and/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+Maybe the mod can pin it?
+
+---
+COMMENT by tweetibird:
+Can probably merge them or create a wiki.
+
+---
+COMMENT by xlrak:
+Is there a way to pin this to the top of the sub? At least during periods when there are lots of FA related posts (like now).
+
+---
+COMMENT by Maarianaabril:
+Have you guys gotten your financial aid package for next year? 2024-2025??
+
+---
+COMMENT by Active_Breath_6198:
+no but i do see fafsa
+
+---
+COMMENT by Maarianaabril:
+so you can see how much money you got? damn i can't see anything yet
+
+---
+COMMENT by Business_Artist1169:
+hey! i am wondering if you know anything about tap disbursement? my tuition was fully covered and i have a big tap amount but i am not sure if it is actually disbursable

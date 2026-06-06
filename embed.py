@@ -105,30 +105,56 @@ def quality_label(distance):
     return "weak"
 
 
-def run_query(collection, model, query):
-    """Embed a query, retrieve top-k chunks, and print them with scores."""
+def load_model():
+    """Load the sentence-transformers embedding model (used by ingest + app)."""
+    return SentenceTransformer(EMBEDDING_MODEL)
+
+
+def get_collection():
+    """Open the EXISTING persistent ChromaDB collection (no re-embedding).
+
+    Use this from downstream stages (e.g. app.py) after embed.py has already
+    built the collection. Raises if the collection hasn't been created yet.
+    """
+    client = chromadb.PersistentClient(path=CHROMA_PATH)
+    return client.get_collection(COLLECTION_NAME)
+
+
+def retrieve(collection, model, query, k=TOP_K):
+    """Embed `query` and return the top-k chunks as a list of dicts.
+
+    Each dict has: text, source, distance. This is the single retrieval
+    function shared by embed.py's self-test and app.py's RAG pipeline.
+    """
     query_embedding = model.encode([query]).tolist()
-    results = collection.query(
-        query_embeddings=query_embedding,
-        n_results=TOP_K,
-    )
+    results = collection.query(query_embeddings=query_embedding, n_results=k)
 
     documents = results["documents"][0]
     metadatas = results["metadatas"][0]
     distances = results["distances"][0]
 
+    return [
+        {"text": doc, "source": meta.get("source", "?"), "distance": dist}
+        for doc, meta, dist in zip(documents, metadatas, distances)
+    ]
+
+
+def run_query(collection, model, query):
+    """Embed a query, retrieve top-k chunks, and print them with scores."""
+    hits = retrieve(collection, model, query)
+
     print("\n" + "=" * 70)
     print(f"QUERY: {query}")
     print("=" * 70)
 
-    for rank, (doc, meta, dist) in enumerate(
-        zip(documents, metadatas, distances), start=1
-    ):
-        source = meta.get("source", "?")
-        label = quality_label(dist)
-        print(f"\n[{rank}] source={source}  distance={dist:.4f}  ({label})")
+    for rank, hit in enumerate(hits, start=1):
+        label = quality_label(hit["distance"])
+        print(
+            f"\n[{rank}] source={hit['source']}  "
+            f"distance={hit['distance']:.4f}  ({label})"
+        )
         print("-" * 70)
-        print(doc)
+        print(hit["text"])
         print("-" * 70)
 
 
